@@ -1,4 +1,4 @@
 # Esercizi_NI
 
-Eercizi svolti tramite katharà per il corso di Network Infrastructures
+Esercizi svolti tramite katharà per il corso di Network Infrastructures
 
