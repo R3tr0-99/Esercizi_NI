@@ -1,0 +1,2 @@
+From pc1 if we try to ping un unreachable destination we obtain only ARP request to try to establish a connection, it's the same if we try to ping un unreachable remote destination but only from the eth1 of the router r2.
+When we try to ping un unreachable destination we obtain some ICMP errors, the first is from the Host of the eth0 of the router r2 and the second is from the Network, all these results came out from the ping to pc1 to other non-existent or unreachable destinations
